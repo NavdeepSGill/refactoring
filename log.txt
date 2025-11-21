@@ -1,2 +1,4 @@
-2242071 (HEAD -> main, origin/main, origin/HEAD) Task 1.1
+ddcf7cd (HEAD -> main) refactored StatementPrinter.java
+d7e93a1 (origin/main, origin/HEAD) Task 1.2
+2242071 Task 1.1
 9702a1f Initial commit
