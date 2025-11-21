@@ -1,4 +1,5 @@
-5cf9e71 (HEAD -> main) Task 2.1
+411095c (HEAD -> main) Task 2.2
+5cf9e71 Task 2.1
 ddcf7cd refactored StatementPrinter.java
 d7e93a1 (origin/main, origin/HEAD) Task 1.2
 2242071 Task 1.1
