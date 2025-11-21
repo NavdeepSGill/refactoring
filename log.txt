@@ -1,7 +1,8 @@
-481c5df (HEAD -> main) Task 2.3
+3e737e0 (HEAD -> main, origin/main, origin/HEAD) Task 2.4
+481c5df Task 2.3
 411095c Task 2.2
 5cf9e71 Task 2.1
 ddcf7cd refactored StatementPrinter.java
-d7e93a1 (origin/main, origin/HEAD) Task 1.2
+d7e93a1 Task 1.2
 2242071 Task 1.1
 9702a1f Initial commit
